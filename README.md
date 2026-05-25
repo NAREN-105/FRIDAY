@@ -55,6 +55,7 @@ Run the main application script to boot up F.R.I.D.A.Y.:
 python main.py
 ```
 
+ 
 - **Activation:** The UI will launch in the bottom right corner of your screen. Wait for the "Awaiting Boss..." status, then say **"Friday"** (or "Hi Friday") to wake her up.
 - **Commands:** Once active, you can issue commands like:
   - *"Open Chrome"*
