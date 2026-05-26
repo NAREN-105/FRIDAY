@@ -24,6 +24,7 @@ F.R.I.D.A.Y. (Female Replacement Intelligent Digital Assistant Youth) is a fully
 
 ## ⚙️ Installation & Setup
 
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/NAREN-105/FRIDAY.git
