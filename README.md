@@ -6,6 +6,7 @@ F.R.I.D.A.Y. (Female Replacement Intelligent Digital Assistant Youth) is a fully
 
 ## ✨ Features
 
+
 - **Voice Activation:** Always listening for the wake word **"Friday"** using a custom VAD loop.
 - **Conversational AI:** Powered by Google's `gemini-2.5-flash` model for intelligent, natural, and highly contextual responses with a custom personality.
 - **System Automation:** Can open Windows applications, type on the screen, press hotkeys, scroll, and take screenshots using `pyautogui`.
@@ -23,6 +24,7 @@ F.R.I.D.A.Y. (Female Replacement Intelligent Digital Assistant Youth) is a fully
 - **UI:** `tkinter`
 
 ## ⚙️ Installation & Setup
+
 
 1. **Clone the repository:**
    ```bash
@@ -55,6 +57,7 @@ Run the main application script to boot up F.R.I.D.A.Y.:
 python main.py
 ```
 
+ 
 - **Activation:** The UI will launch in the bottom right corner of your screen. Wait for the "Awaiting Boss..." status, then say **"Friday"** (or "Hi Friday") to wake her up.
 - **Commands:** Once active, you can issue commands like:
   - *"Open Chrome"*
