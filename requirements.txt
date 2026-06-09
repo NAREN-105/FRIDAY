@@ -1,8 +1,9 @@
 SpeechRecognition
 pyttsx3
-customtkinter
 sounddevice
 soundfile
 pyautogui
-google-generativeai
+google-genai
 python-dotenv
+numpy
+requests
