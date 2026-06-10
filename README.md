@@ -14,6 +14,7 @@ F.R.I.D.A.Y. (Female Replacement Intelligent Digital Assistant Youth) is a fully
 - **Animated HUD:** A custom, frameless Tkinter UI with dynamic visual states (`STANDBY`, `LISTENING`, `PROCESSING`, `SPEAKING`), a rotating radar, and a conversation log.
 - **Task Management:** Set voice-based reminders that alert you automatically.
 
+
 ## 🛠️ Technology Stack
 
 - **Core AI:** `google-genai` (Gemini API)
