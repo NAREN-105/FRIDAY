@@ -16,7 +16,6 @@ F.R.I.D.A.Y. (Female Replacement Intelligent Digital Assistant Youth) is a fully
 
 
 ## 🛠️ Technology Stack
-
 - **Core AI:** `google-genai` (Gemini API)
 - **Speech-to-Text:** `SpeechRecognition`, `sounddevice`, `soundfile`, `numpy`
 - **Text-to-Speech:** `pyttsx3`
