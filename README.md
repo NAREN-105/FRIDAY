@@ -7,6 +7,7 @@ F.R.I.D.A.Y. (Female Replacement Intelligent Digital Assistant Youth) is a fully
 ## ✨ Features
 
 
+
 - **Voice Activation:** Always listening for the wake word **"Friday"** using a custom VAD loop.
 - **Conversational AI:** Powered by Google's `gemini-2.5-flash` model for intelligent, natural, and highly contextual responses with a custom personality.
 - **System Automation:** Can open Windows applications, type on the screen, press hotkeys, scroll, and take screenshots using `pyautogui`.
